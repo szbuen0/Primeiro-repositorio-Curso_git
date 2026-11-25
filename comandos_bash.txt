@@ -1,0 +1,8 @@
+mkadir -> criar pasta
+ls -> listar arquivos
+cd -> move entre diretórios
+pwd -> mostra diretório de trabalho
+ctrl L -> limpa diretório
+cat -> abre arquivo
+git initi . -> torna a pasta uma pasta versionada (inicia o git)
+rm -rf .git -> apaga os arquivos e volta a pasta ao padrão (muito cuidado com esse comando
