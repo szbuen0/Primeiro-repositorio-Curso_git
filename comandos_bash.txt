@@ -6,3 +6,5 @@ ctrl L -> limpa diretório
 cat -> abre arquivo
 git initi . -> torna a pasta uma pasta versionada (inicia o git)
 rm -rf .git -> apaga os arquivos e volta a pasta ao padrão (muito cuidado com esse comando
+git status -> status da pasta
+git commit -m -> faz o commit da pasta (commit é como se fosse um checkpoint)

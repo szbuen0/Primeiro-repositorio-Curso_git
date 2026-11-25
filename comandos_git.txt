@@ -1,0 +1,7 @@
+git initi . -> cria um repo git na pasta atual
+git status -> mostra o status do trabalho de cada arquivo
+git add -> adiciona o nome do arquivo para ser commitado
+git commit -m ""(escrever a mensagem dentro do aspas) -> faz commit
+nano nomedoarquivo.txt -> abre o editor de texto do git e cria um arquivo .txt na pasta
+ctrl O salva o arquivo no nano
+Ctrl x Sai
