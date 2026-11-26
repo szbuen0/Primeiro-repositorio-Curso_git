@@ -5,3 +5,15 @@ git commit -m ""(escrever a mensagem dentro do aspas) -> faz commit
 nano nomedoarquivo.txt -> abre o editor de texto do git e cria um arquivo .txt na pasta
 ctrl O salva o arquivo no nano
 Ctrl x Sai
+
+## FLUXO DE TRABALHO
+
+1. criar o diretório do projeto
+2. iniciar o git dentro do diretório criado (git init .)
+3. edita ou cria arquivos
+4. git status
+5. git add <nome arquivo>
+6. git status
+7. git commit -m "mensagem"
+8. git status
+9. volta para o passo 3.
